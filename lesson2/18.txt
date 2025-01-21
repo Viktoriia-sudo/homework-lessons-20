@@ -1,1 +1,48 @@
+﻿1. Протестуй сайт https://www.headhunterhairstyling.com/, знайшовши 3 баги; запиши їх в Google docs. 
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-58
 
+
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-94
+
+
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-95
+
+
+
+
+
+
+2. Створи єдиний HTML-документ з підключенням в ньому стилів трьома різними способами:
+* В середині специфічного тегу (inline)
+* В розділі “HEAD”
+* У зовнішньому .css файлі
+file:///C:/Users/Смарт%20Техника/Desktop/Печерна%20Вікторія%20дз14.html[a][b][c]
+3. Перевір відображення створеного документа в різних браузерах.
+Перевірено на таких браузерах: Opera, Google Hrome, Microsoft Edge
+3.1.  Коротко опиши різницю у відображенні елементів. 
+На всіх трьох браузерах різниць не виявлено,відображається однаково
+
+
+
+
+
+
+
+
+
+
+3.За допомогою Developer Tools визнач кодування символів, використаних на таких вебсторінках:[d]
+
+
+https://beetroot.academy     charset=UTF-8
+https://microseniors76.com/     charset=iso-8859-1"
+https://www.tennis-warehouse.com/      charset="macintosh"
+https://www.fidelity.com/       ; charset=utf-8
+
+
+
+
+[a]Я не можу зайти на твій комп'ютер :) Мені потрібно надати файли з виконаною роботою окремо чи архівом, як ми говорили на занятті.
+[b]Як надати окремо підкажіть,підкрипити в доксі мій прописаний HTML код?Вибачте за дурне питання)але я маю його запитати)Дякую
+[c]Заархівуй в зіп і просто додай в ЛМС, де прикріплювала цей файл. Там можна завантажити файл.
+[d]По цій частині впоралась. Не маю зауважень.
