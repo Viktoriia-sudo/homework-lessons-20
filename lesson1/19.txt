@@ -1,0 +1,39 @@
+﻿1.Протестуй UI/UX сайту Оксфорд Медикал. В Google docs створи 5 багів з дотриманням усіх вимог до оформлення багу. 
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-84
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-85
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-86
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-87
+https://qa132.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-88
+2. Проведи кросбраузерне тестування знайдених раніше багів у трьох різних браузерах.
+Всі написані мною баг репорти були проведені на різних браузерах( Opera, Google Hrome, Microsoft Edge
+) та в мобільному додатку Android 11
+3. Додай результати до зафіксованих раніше багів. 
+Скрін багів додала до баг репорту в jira
+4. За допомогою Developer Tools зафіксуй використаний шрифт, його розмір, колір та колір бекграунду наступних елементів сайту Оксфорд Медикал:
+* номер телефону у хедері
+* ім’я асистента при виклику чата допомоги
+* кнопка “інші міста” у футері сайту
+* Placeholder “ім’я” у формі “ЗАПИСАТИСЯ НА ПРИЙОМ”
+номер телефону у хедері:
+font:16px / 24px HelveticaNeue-Bold, sans-serif;
+color: #fff;
+background-color: #fff
+
+
+ім’я асистента при виклику чата допомоги:
+font-family: Roboto, sans-serif;
+color: inherit;
+font-size: inherit;
+background-color:#9B4FB6
+кнопка “інші міста” у футері сайту:
+font:16px HelveticaNeue, sans-serif;
+color: #fff;
+background-color:#5bbdf2
+
+
+
+
+Placeholder “ім’я” у формі “ЗАПИСАТИСЯ НА ПРИЙОМ”:
+font:12px HelveticaNeue-Medium, sans-serif;
+color: #fff;
+background-color:#62bb47
